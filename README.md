@@ -87,7 +87,7 @@ VALUES
 
 #Instalação:
  - Via Maven:
- 	Baixar os arquivos disponibilizados no GitHub (https://github.com/geraldo72/distance_cities)
+ 	Baixar os arquivos disponibilizados no GitHub (https://github.com/alancristians/distanciacidades)
  	Configurar o arquivo 'connection.properties' (src/main/resources/) com os dados do MySQL utilizado.
  		Caso as propriedades não sejam encontradas, irá tentar se conectar em localhost:3306 com usuario e senha 'teste'
  	Configurar o arquivo pom.xml (Raiz do projeto):
@@ -97,7 +97,7 @@ VALUES
  	Iniciar o servidor, caso não esteja iniciado.
 
  - Via WAR:
- 	Baixar o arquivo 'distance_cities.war' disponibilizado via email ou no GitHub (https://github.com/geraldo72/distance_cities/disp)
+ 	Baixar o arquivo 'distance_cities.war' disponibilizado via email ou no GitHub (https://github.com/alancristians/distanciacidades)
  	Configurar o arquivo 'connection.properties' dentro do war (distance_cities.war/WEB-INF/classes) com os dados do MySQL utilizado.
 		Caso as propriedades não sejam encontradas, irá tentar se conectar em localhost:3306 com usuario e senha 'teste'
 	Salvar o arquivo corretamente dentro do war.
