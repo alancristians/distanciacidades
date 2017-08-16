@@ -101,7 +101,7 @@ Installation:
 	Start server, if is stopped.
 
  - With WAR:
- 	Download 'distance_cities.war' file, sent by email or located on GitHub (https://github.com/alancristians/distanciacidades/disp)
+ 	Download 'distance_cities.war' file, sent by email or located on GitHub (https://github.com/alancristians/distanciacidades)
 	Configure MySql connection properties  file 'connection.properties' inside war (distance_cities.war/WEB-INF/classes)
  	Configurar o arquivo 'connection.properties' dentro do war (distance_cities.war/WEB-INF/classes) com os dados do MySQL utilizado.
 		Default configuration properties, if system don't find the configuration file:
